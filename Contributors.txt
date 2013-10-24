@@ -1,0 +1,6 @@
+0.9
+   - Original code by Jon Gardiner
+
+0.9.1
+   - Addition of GetTimeOffRequests by Jon Gardiner
+   - Thank you to James Moyer of EquationServices.com contributing fixes and improvements.
