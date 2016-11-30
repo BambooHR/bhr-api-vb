@@ -1,6 +1,8 @@
 ﻿
 Module Test
     Public Sub Main()
+        ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls11
+        
         Dim companySubdomain As String = ""     ' Your company's subdomain here
         Dim userSecretKey As String = ""        ' Your user's api key here
 
